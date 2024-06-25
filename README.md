@@ -1,4 +1,4 @@
-# LEONINE-clouds
+# ZECHUB-clouds
 Akash deploys on Zcash  
 Hello world this is the start to run Zcashd on Akash Network
 I would like to extend my heartfelt gratitude to ZEC Hub. Joining this esteemed organization has provided me with innumerable opportunities for learning, growth, and collaboration.
